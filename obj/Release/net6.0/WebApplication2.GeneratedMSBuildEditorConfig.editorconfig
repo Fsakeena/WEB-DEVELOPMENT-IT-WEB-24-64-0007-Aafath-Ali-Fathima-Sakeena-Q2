@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication2
+build_property.RootNamespace = WebApplication2
+build_property.ProjectDir = C:\Users\acer\OneDrive\Desktop\visual programming\FinalProject\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\acer\OneDrive\Desktop\visual programming\FinalProject
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/AddCourse/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQ291cnNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/AddCourse/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQ291cnNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/AddCourse/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQ291cnNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/AddCourse/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQ291cnNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/AddCourse/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQ291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/AddStudent/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkU3R1ZGVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/AddStudent/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkU3R1ZGVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/AddStudent/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/AddStudent/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/AddStudent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/Course/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/Course/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/Course/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/Course/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/acer/OneDrive/Desktop/visual programming/FinalProject/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-274z30g9x2

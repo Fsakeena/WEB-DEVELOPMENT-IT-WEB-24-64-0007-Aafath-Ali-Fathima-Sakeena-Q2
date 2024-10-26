@@ -1,0 +1,44 @@
+﻿@page
+@model WebApplication2.Pages.AddStudent.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Add New Students</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Student.name" class="control-label"></label>
+                <input asp-for="Student.name" class="form-control" />
+                <span asp-validation-for="Student.name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Student.City" class="control-label"></label>
+                <input asp-for="Student.City" class="form-control" />
+                <span asp-validation-for="Student.City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Student.CID" class="control-label"></label>
+                <input asp-for="Student.CID" class="form-control" />
+                <span asp-validation-for="Student.CID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
